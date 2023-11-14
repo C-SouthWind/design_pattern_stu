@@ -1,0 +1,9 @@
+简答工厂模式
+
+一个披萨的项目：便于披萨种类的扩展，要便于维护
+1、披萨的种类很多(比如 GreekPizza、CheesePizza等)
+2、披萨的制作有prepare、bake、cut、box
+3、完成披萨点订购功能
+
+
+
